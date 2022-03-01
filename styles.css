@@ -1,0 +1,45 @@
+body{
+    text-align: center;
+    background-color: antiquewhite;
+    font-weight: 400;
+    font-family: 'Lucida Sans Unicode', Arial, sans-serif;
+    justify-content: center;
+}
+.card{
+    background-color: whitesmoke;
+    width: 400px;
+    padding: 32px;
+    border-radius: 20px;
+    text-align: center;
+    margin: auto;
+}
+.button{
+    background-color: burlywood;
+    color: black;
+    padding: 5px 10px;
+    text-decoration: none;
+}
+.card-for-pancakes{
+    background-color: whitesmoke;
+    width: 400px;
+    padding: 32px;
+    border-radius: 20px;
+    text-align: center;
+    margin: auto;
+}
+.card-for-lasagna{
+    background-color: whitesmoke;
+    width: 400px;
+    padding: 32px;
+    border-radius: 20px;
+    text-align: center;
+    margin: auto;
+}
+.card-for-ice-cream{
+    background-color: whitesmoke;
+    width: 400px;
+    padding: 32px;
+    border-radius: 20px;
+    text-align: center;
+    margin: auto;
+}
